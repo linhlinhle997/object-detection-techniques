@@ -60,6 +60,7 @@ python -m src.object_tracking.optimized
 ```
 
 **Result**
+
 ![Object Tracking](output/vietnam_tracked.jpg)
 
 
@@ -91,6 +92,7 @@ python -m src.object_counting.optimized
 ```
 
 **Result**
+
 ![Object Counting](output/highway_counted.jpg)
 
 ---
@@ -114,6 +116,7 @@ python -m src.open_vocab_detection
 ```
 
 **Result**
+
 ![Open Vocabulary Detection](output/vietnam_3_ovd.jpg)
 
 
@@ -145,4 +148,5 @@ python -m src.speech_estimation.optimized
 ```
 
 **Result**
+
 ![Vehicle Speech Estimation](output/thai_speedest.jpg)
